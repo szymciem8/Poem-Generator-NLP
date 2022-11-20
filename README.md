@@ -4,7 +4,7 @@
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat&logo=Jupyter)](https://jupyter.org/try)
 
-Machine learning model that genrates short poems in silesian language. 
+Machine learning model that generates short poems in silesian language. 
 
 ## Example 
 Every poem generation has to be started with a seed sentence. In this example, poem was started with `A kej pojemy i pośpiywomy` and here is the outcome. 
