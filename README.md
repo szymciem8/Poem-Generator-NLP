@@ -3,6 +3,8 @@
 Machine learning model that genrates short poems in silesian language. 
 
 ## Example 
+Every poem generation has to be started with a seed sentence. In this example, poem was started with `A kej pojemy i pośpiywomy` and here is the outcome. 
+
 ```
 A kej pojemy i pośpiywomy, 
 ciongnyć spać niy zawale – planowe niydziele na grubie 
