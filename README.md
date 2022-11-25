@@ -20,3 +20,16 @@ na piwo z piwo mu łon na jego ptokach na hołda zaglondoł
 podlola fedrować dzielom na hołda 
 sadziola piwo mu na piwo na piwo
 ```
+
+After introducing probability when predicting the next word.
+
+```
+A kej pojemy i pośpiywomy, 
+twarzy idzie śpiywo ich żyły sztyjc wcale kuje po przidzie bała… 
+na lyberka wylyźć idzie idzie po glajzach dworzec 
+wcale idzie piwo z fetym jeszcze dworzec 
+ich wziynty godka robia robota dworzec wyromboł ż
+aba na ją lata chałpą rachowanie zony wziynty chałpą złota żałowali 
+z przetoku pszola zony lasa guminioki 
+ciotki dworzec ciotki zony izba piwo roboty na lekki wziynty
+```
