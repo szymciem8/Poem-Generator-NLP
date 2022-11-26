@@ -7,20 +7,8 @@
 Machine learning model that generates short poems in silesian language. 
 
 ## Example 
+### Poem
 Every poem generation has to be started with a seed sentence. In this example, poem was started with `A kej pojemy i pośpiywomy` and here is the outcome. 
-
-```
-A kej pojemy i pośpiywomy, 
-ciongnyć spać niy zawale – planowe niydziele na grubie 
-na piwo mu piere tyż na nos 
-nos na niebie żłopie nie szukoł 
-na piwo mu szelonto na piwo z eskimosami 
-na to na stare lata taszy 
-na piwo z piwo mu łon na jego ptokach na hołda zaglondoł 
-podlola fedrować dzielom na hołda 
-sadziola piwo mu na piwo na piwo
-```
-
 After introducing probability when predicting the next word.
 
 ```
@@ -32,4 +20,10 @@ ich wziynty godka robia robota dworzec wyromboł ż
 aba na ją lata chałpą rachowanie zony wziynty chałpą złota żałowali 
 z przetoku pszola zony lasa guminioki 
 ciotki dworzec ciotki zony izba piwo roboty na lekki wziynty
+```
+
+
+### Feuilleton
+```
+widza i czuja, wiela mie to zdrowiŏ, prŏcy i wyrzeczyń kosztuje – ida ôd syniora regiōnalnyj na zŏlyty na kole durś świata raus górnych i bestōż fto sie kibel sie im bydzie otwierōł pogoda poszoł nazŏd na zolyty ô śpr tak za piastować jŏd kożdy wikynd jŏd starajōm terŏzki ludzi je ino starajōm sōm ale abo tak roztōmajte bo w gōry a ale aji jak śniŏdać niy bydōm nōm ô modości.
 ```
