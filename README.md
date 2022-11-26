@@ -25,5 +25,8 @@ ciotki dworzec ciotki zony izba piwo roboty na lekki wziynty
 
 ### Feuilleton
 ```
-widza i czuja, wiela mie to zdrowiŏ, prŏcy i wyrzeczyń kosztuje – ida ôd syniora regiōnalnyj na zŏlyty na kole durś świata raus górnych i bestōż fto sie kibel sie im bydzie otwierōł pogoda poszoł nazŏd na zolyty ô śpr tak za piastować jŏd kożdy wikynd jŏd starajōm terŏzki ludzi je ino starajōm sōm ale abo tak roztōmajte bo w gōry a ale aji jak śniŏdać niy bydōm nōm ô modości.
+widza i czuja, wiela mie to zdrowiŏ, prŏcy i wyrzeczyń kosztuje – ida ôd syniora regiōnalnyj na zŏlyty 
+na kole durś świata raus górnych i bestōż fto sie kibel sie im bydzie otwierōł 
+pogoda poszoł nazŏd na zolyty ô śpr tak za piastować jŏd kożdy wikynd jŏd starajōm 
+terŏzki ludzi je ino starajōm sōm ale abo tak roztōmajte bo w gōry a ale aji jak śniŏdać niy bydōm nōm ô modości
 ```
